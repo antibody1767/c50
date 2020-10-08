@@ -1,0 +1,30 @@
+h1{
+    color: navy;
+}
+*{
+    border: solid
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: space-evenly;
+}
+.header{
+    display:flex;
+    color : "pink";
+    justify-content: space-between;
+}
+/* .intro{
+    display:flex;
+    
+    justify-content: initial; */
+/* } */
+p,h3{
+    background-color: aquamarine;
+    text-align: center;
+
+}
+.footer{
+    display:flex;
+
+}
